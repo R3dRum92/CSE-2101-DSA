@@ -1,1 +1,7 @@
 * [Building Roads](https://cses.fi/problemset/task/1666)
+* [Message Route](https://cses.fi/problemset/task/1667)
+* [Course Schedule](https://cses.fi/problemset/task/1679)
+* [Longest Flight Route](https://cses.fi/problemset/task/1680)
+* [Road Reparation](https://cses.fi/problemset/task/1675)
+* [Road Construction](https://cses.fi/problemset/task/1676)
+* [Flight Routes Check](https://cses.fi/problemset/task/1682)
